@@ -5,7 +5,7 @@ function App() {
 
   return (
     <div>
-ㅇㄴㅇㄴㅇㄴ
+ 이게 올라가면 테스트 성공
     </div>
   )
 }
